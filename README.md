@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Ludriano Washington</h1>
 <h3 align="center">Um apaixonado Desenvolvedor Fullstack do Brasil</h3>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ludrianowashington&label=Profile%20views&color=0e75b6&style=flat" alt="ludrianowashington" /> </p>
 
 - 🔭 Estou trabalhando na [Conttak](https://github.com/ludrianowashington/conttak)
 

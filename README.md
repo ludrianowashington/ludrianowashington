@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Ludriano Washington</h1>
 <h3 align="center">Um apaixonado Desenvolvedor Fullstack</h3>
 
-- 🔭 Estou trabalhando na [Conttak](https://github.com/ludrianowashington/conttak)
+- 🔭 Estou trabalhando na [Startup Mines](https://minesbot.com.br) e [Conttak](https://github.com/conttak/conttak)
 
 - 🌱 Estou atualmente aprendendo **React, React Native, NodeJS e NextJS**
 

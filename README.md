@@ -3,7 +3,7 @@
 
 - 🔭 Estou trabalhando na [MinesBot](https://minesbot.com.br) como Desenvolvedor React
 
-- 🌱 Estou atualmente estudando **React, Redux e Graphql**
+- 🌱 Estou atualmente estudando **_Redux_**
 
 - 👨‍💻 Todos os meus projetos podem ser visualizados em [https://ludrianowashington.vercel.app](https://ludrianowashington.vercel.app)
 

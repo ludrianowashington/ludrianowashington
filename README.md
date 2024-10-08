@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, eu sou Ludriano Washington</h1>
-<h3 align="center">Um apaixonado Desenvolvedor Frontend</h3>
+<h3 align="center">Um apaixonado Desenvolvedor FullStack</h3>
 
-- 🔭 Estou trabalhando na [MinesBot](https://minesbot.com.br) como Desenvolvedor React
+- 🔭 Estou trabalhando na [Pryntio](https://) como Desenvolvedor FullStack e Fundador
 
-- 🌱 Estou atualmente estudando **_Redux_**
+- 🌱 Estou atualmente estudando **_Python, IA, Flutter e C#_**
 
 - 👨‍💻 Todos os meus projetos podem ser visualizados em [https://ludrianowashington.vercel.app](https://ludrianowashington.vercel.app)
 

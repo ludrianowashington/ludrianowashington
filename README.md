@@ -1,7 +1,7 @@
 <div align="center">
-  [<a href="https://app.rocketseat.com.br/me/ludrianowashington">
+  <a href="https://app.rocketseat.com.br/me/ludrianowashington">
     <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=ludrianowashington&type=card" width="280" alt="Ludriano Washington's Rocket ID"/>
-  </a>](https://app.rocketseat.com.br/rocketid/ludrianowashington)
+  </a>
 </div>
 
 <h1 align="center">Olá 👋, eu sou Ludriano Washington</h1>

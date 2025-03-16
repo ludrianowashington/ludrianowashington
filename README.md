@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://app.rocketseat.com.br/me/ludrianowashington">
-    <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=ludrianowashington&type=card" width="280" alt="Ludriano Washington's Rocket ID"/>
+    <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=ludrianowashington&type=card" width="200" alt="Ludriano Washington's Rocket ID"/>
   </a>
 </div>
 

@@ -6,7 +6,9 @@
 
 <h1 align="center">Olá 👋, eu sou Ludriano Washington</h1>
 <h3 align="center">Um apaixonado Desenvolvedor FullStack</h3>
-<h6 align="center"></h6>
+<h4 align="center">Meu outro perfil <a href="https://github.com/ludrianow">aqui</a>.</h4>
+
+<br/><br/><br/>
 
 - 🔭 Estou trabalhando como Freelancer.
 

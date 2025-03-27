@@ -6,14 +6,17 @@
 
 <h1 align="center">Olá 👋, eu sou Ludriano Washington</h1>
 <h3 align="center">Um apaixonado Desenvolvedor FullStack</h3>
+<h6 align="center"></h6>
 
-- 🔭 Estou trabalhando na [Pryntio](https://pryntio.vercel.app) como Desenvolvedor FullStack e Fundador
+- 🔭 Estou trabalhando como Freelancer.
 
-- 🌱 Estou atualmente estudando **_Python, IA, Flutter e C#_**
+- 📂 Atualmente desenvolvendo Saas, acompanhe [aqui](https://github.com/ludrianow).
 
-- 👨‍💻 Todos os meus projetos podem ser visualizados em [https://ludrianowashington.vercel.app](https://ludrianowashington.vercel.app)
+- 🌱 Estou atualmente estudando **_Python, IA, Flutter e C#/.Net_**.
 
-- 💬 Fale comigo sobre **html, css, javascript, música, empreendedorismo**
+- 👨‍💻 Todos os meus projetos podem ser visualizados em [https://ludrianowashington.vercel.app](https://ludrianowashington.vercel.app).
+
+- 💬 Fale comigo sobre **html, css, javascript, música, empreendedorismo**.
 
 - 📫 Entre em contato comigo por **ludinho.washi@gmail.com** ou pelo [**Whatsapp**](https://wa.me/5581988511896).
 

@@ -31,4 +31,4 @@
   <a href="https://app.rocketseat.com.br/me/ludrianowashington" target="blank"><img align="center" src="https://camo.githubusercontent.com/8fbfa348fb90d2b3fb95d49c9534e1bf2c6540651ce06b483910770d472ea0e1/68747470733a2f2f73332d73612d656173742d312e616d617a6f6e6177732e636f6d2f726f636b6574736561742d63646e2f726f636b6574736561745f6c6f676f5f726f78612e706e67" alt="Ludriano Washington" height="30" width="120" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?theme=radical&username=ludrianowashington&show_icons=true&locale=en&layout=compact" alt="ludrianowashington" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?theme=radical&username=ludrianowashington&show_icons=true&locale=en&layout=pie" alt="ludrianowashington" /></p>

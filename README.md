@@ -32,3 +32,9 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?theme=radical&username=ludrianowashington&show_icons=true&locale=en&layout=pie" alt="ludrianowashington" /></p>
+<a href="https://github.com/ludrianowashington">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ludrianowashington&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/ludrianowashington">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludrianowashington" />
+</a>

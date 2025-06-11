@@ -35,6 +35,6 @@
 <a href="https://github.com/ludrianowashington">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ludrianowashington&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/ludrianowashington">
+<!-- <a href="https://github.com/ludrianowashington">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludrianowashington" />
-</a>
+</a> -->
